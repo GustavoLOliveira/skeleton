@@ -1,0 +1,11 @@
+
+.header{
+    height: 100px;
+    width: 100vw;
+    background-color: #FFF;
+}
+
+.container {
+    background-color: #0000;
+    width: 100vw;
+}
